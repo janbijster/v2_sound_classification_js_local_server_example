@@ -18,7 +18,7 @@ python3 app.py
 
 ## CORS
 The browser will block an ajax request on a https page to an unsecured address and it won't accept a self-signed certificate either.
-So the easiest way to make it work with the sound-js webapp is to run that in a browser-mode with security disabled:
+So the easiest way to make it work with the sound-js webapp is to run that in a browser mode with security disabled. For Chrome:
 
 Windows:
 ```
